@@ -41,7 +41,7 @@ Mehr Information hierzu gibt es unter: https://module-loader.de/docs/naming_conv
 
 10. Es muss in der Modulbeschreibung auf folgendes hingewiesen werden: *Für dieses Modul kann Support freundlich im [modified Forum](https://www.modified-shop.org/forum/) erfragt werden. Ein Anspruch auf Support besteht jedoch nicht. Alternativ kann ein Dienstleister für Support (auch kostenpflichtig) beauftragt werden.*
 
-11. Werden an einem Modul neue nicht triviale Funktionen oder erhebliche Änderungen am Code vorgenommen und eine eigene Schöpfungshöhe ist ersichtlich, darf das Modul auch kostenlos unter dem eigenen Account veröffentlicht werden. Die Nennung der Contributor/Autoren wie aus Punkt 8 muss weiterhin erfolgen. Oft wird das bereits von der Lizenz verlangen, unter dem ein Modul veröffentlicht wurde.
+11. Werden an einem Modul neue nicht triviale Funktionen oder erhebliche Änderungen am Code vorgenommen und eine eigene Schöpfungshöhe ist ersichtlich, darf das Modul auch kostenlos unter dem eigenen Account veröffentlicht werden. Die Nennung der Contributor/Autoren wie aus Punkt 8 muss weiterhin erfolgen. Oft wird das bereits von der Lizenz verlangt, unter dem ein Modul veröffentlicht wurde.
 
 12. Jedes Modul, dass unter **ModifiedCommunityModules** veröffentlicht wird, muss eine **README.md** Datei beinhalten, in der auf diese Guidelines verwiesen wird.
 
