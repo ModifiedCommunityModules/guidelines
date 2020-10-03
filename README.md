@@ -1,4 +1,5 @@
 # Guidelines
+Version 0.1.0
 
 ## Einleitung
 Dieses ist eine öffentliche GitHub-Organisation mit dem Namen **ModifiedCommunityModules**. Durch diese GitHub-Organisation können kostenlose Module für die Modified Shop Software öffentlich unter **git@github.com:ModifiedCommunityModules/MODULE_NAME...** veröffentlicht werden. Durch diesen generischen GitHub-Organisation-Namen, beinhalten die Links und Pfade zu den Repsoitories auf GitHub der Module nicht mehr den Namen eines GitHub-Useres, welcher möglicherweise wenig am Modul selbst beigetragen hat. Dadruch soll verhindert werden, dass  ungewollt ein GitHub-User in den Focus gestellt werden, der wenig zu einem Modul beigetragen hat und lediglich ein kostenloses Modul auf GitHub veröffentlichen wollte.
