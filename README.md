@@ -2,7 +2,7 @@
 Version 0.1.0
 
 ## Einleitung
-Dieses ist eine öffentliche GitHub-Organisation mit dem Namen **ModifiedCommunityModules**. Durch diese GitHub-Organisation können kostenlose Module für die [modified eCommerce Shopsoftware](https://www.modified-shop.org) öffentlich unter **git@github.com:ModifiedCommunityModules/MODULE_NAME...** veröffentlicht werden. Durch diesen generischen GitHub-Organisations-Namen, beinhalten die Links und Pfade zu den Repsoitories auf GitHub der Module nicht mehr den Namen eines GitHub-Useres, welcher möglicherweise wenig am Modul selbst beigetragen hat. Dadruch soll verhindert werden, dass ungewollt ein GitHub-User in den Focus gestellt wird, der wenig zu einem Modul beigetragen hat und lediglich ein kostenloses Modul auf GitHub veröffentlichen wollte.
+Dieses ist eine öffentliche GitHub-Organisation mit dem Namen **ModifiedCommunityModules**. Durch diese GitHub-Organisation können kostenlose Module für die [modified eCommerce Shopsoftware](https://www.modified-shop.org) öffentlich unter `https://github.com/ModifiedCommunityModules/MODUL_NAME` veröffentlicht werden. Durch diesen generischen GitHub-Organisations-Namen, beinhalten die Links und Pfade zu den Repsoitories auf GitHub der Module nicht mehr den Namen eines GitHub-Useres, welcher möglicherweise wenig am Modul selbst beigetragen hat. Dadruch soll verhindert werden, dass ungewollt ein GitHub-User in den Focus gestellt wird, der wenig zu einem Modul beigetragen hat und lediglich ein kostenloses Modul auf GitHub veröffentlichen wollte.
 
 Die Veröffentlichung unter dieser GitHub-Organisation schließt nicht aus, dass ein Repsitory zu einem späteren Zeitpunkt einem anderen GitHub-User übertragen werden kann, der das Modul berechtigt für sich beansprucht. Das geht jedoch nur, solange das Modul nicht umfangreich durch weitere Contributer bearbeitet wurde. Dem Ursprünglichem Autor des Moduls steht es jedoch frei, dass Repository zu kopieren und es unter seinem eigenen Namen weiterzuentwickeln. Die Regeln der jeweiligen Lizenz gilt es zu jedem Zeitpunkt einzuhalten. Oft beinhaltet dieses auch die Nennung der neuen Contributer.
 
@@ -34,9 +34,7 @@ Mehr Information hierzu gibt es unter: https://module-loader.de/docs/naming_conv
 
 9. Kommt ein Modul aus dem [modified Forum](https://www.modified-shop.org/forum/), wird im entsprechnem Forums-Thread der Modul-Entwickler darüber informiert, dass sein Modul auf GitHub unter **ModifiedCommunityModules** veröffentlicht wurde und zukünftig auch kostenlos im [MMLC](https://module-loader.de) veröffentlicht werden kann. Hierzu wird der Link zu GitHub und falls möglich zum Modul im [MMLC](https://module-loader.de) mit angegeben.
 
-10. Es muss in der Modulbeschreibung auf folgendes Hingewiesen werden:
-
-> Für dieses Modul kann Support freundlich im [modified Forum](https://www.modified-shop.org/forum/) erfragt werden. Ein Anspruch auf Support besteht jedoch nicht. Alternativ kann ein Dienstleister für Support (auch kostenpflichtig) beauftragt werden.
+10. Es muss in der Modulbeschreibung auf folgendes hingewiesen werden: *Für dieses Modul kann Support freundlich im [modified Forum](https://www.modified-shop.org/forum/) erfragt werden. Ein Anspruch auf Support besteht jedoch nicht. Alternativ kann ein Dienstleister für Support (auch kostenpflichtig) beauftragt werden.*
 
 11. Werden an einem Modul neue nicht triviale Funktionen oder erhebliche Änderungen am Code vorgenommen und eine eigene Schöpfungshöhe ist ersichtlich, darf das Modul auch kostenlos unter dem eigenen Account veröffentlicht werden. Die Nennung der Contributer/Autoren wie aus Punkt 8 muss weiterhin erfolgen. Oft wird das bereits die Lizenz verlangen.
 
