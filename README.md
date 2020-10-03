@@ -19,8 +19,9 @@ Durch die Veröffentlichung auf GitHub kann jeder von den Änderungen und Verbes
 
 6. Die Module dürfen nur kostenlos im MMLC veröffentlicht werden.
 
-7. Soll ein Modul im MMLC veröffentlicht werden, müssen diese technisch angepasst werden. Für diese Anpassungen werden folgende generische Bezeichnungen verwendet: VendorName: **ModifiedCommunityModules**, **modified_community_modules**, **MODIFIED_COMMUNITY_MODULES**
-VendorPrefix: **mcm**
+7. Soll ein Modul im MMLC veröffentlicht werden, müssen diese technisch angepasst werden. Für diese Anpassungen werden folgende generische Bezeichnungen verwendet: 
+- VendorName: **ModifiedCommunityModules**, **modified_community_modules**, **MODIFIED_COMMUNITY_MODULES**
+- VendorPrefix: **mcm**
 
 8. In den jeweiligen Dateien müssen je nach Lizenz die Contributer/Autoren genannt werden. Sollte das nicht möglich sein, wird das Modul mindestens mit einer Datei **CONTRIBUTORS.md** ausgeliefert, in der alle Autoren in angemessener üblicher OpenSoruce-Weise erwähnt werden, es sei denn, eine Erwähnung wird nicht gewünscht oder ist technisch nicht möglich.
 
