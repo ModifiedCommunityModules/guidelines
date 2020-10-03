@@ -23,11 +23,11 @@ Die Veröffentlichung unter dieser GitHub-Organisation schließt nicht aus, dass
 
 3. Die Module weisen auf ihren Ursprung hin, soweit dieser bekannt ist. Sollte ein Modul beispielsweise aus dem [modified Forum](https://www.modified-shop.org/forum/) stammen, muss ein Link zum entsprechenden Forums-Thread angegeben werden, soweit dieses möglich ist.
 
-5. Als Modul-Icon sollte ein generisches Icon verwendet werden, dass auf Modifed schließen lässt, dass von modified freigeben wurde, für das die Nutzungsrechte vorliegen und das bei allen kostenlosen modified Module verwendet werden darf, die unter **ModifiedCommunityModules** veröffentlicht werden. Sollte es kein Modul-Icon geben, welches diese Anforderungen erfüllt, kann das Standard Modul-Icon aus dem [MMLC](https://module-loader.de) oder auch kein Modul-Icon verwendet werden.
+4. Als Modul-Icon sollte ein generisches Icon verwendet werden, dass auf Modifed schließen lässt, dass von modified freigeben wurde, für das die Nutzungsrechte vorliegen und das bei allen kostenlosen modified Module verwendet werden darf, die unter **ModifiedCommunityModules** veröffentlicht werden. Sollte es kein Modul-Icon geben, welches diese Anforderungen erfüllt, kann das Standard Modul-Icon aus dem [MMLC](https://module-loader.de) oder auch kein Modul-Icon verwendet werden.
 
-6. Die Module dürfen nur kostenlos im [MMLC](https://module-loader.de) veröffentlicht werden.
+5. Die Module dürfen nur kostenlos im [MMLC](https://module-loader.de) veröffentlicht werden.
 
-7. Soll ein Modul im [MMLC](https://module-loader.de) veröffentlicht werden, müssen diese technisch angepasst werden. Für diese Anpassungen werden folgende generische Bezeichnungen verwendet: 
+6. Soll ein Modul im [MMLC](https://module-loader.de) veröffentlicht werden, müssen diese technisch angepasst werden. Für diese Anpassungen werden folgende generische Bezeichnungen verwendet: 
 - VendorName (lisp-case):	`modifiedcommunitymodules`
 - VendorPrefix:	(snake_case):	`mcm`
 - Namespace	(PascalCase):	`ModifiedCommunityModules`
@@ -35,14 +35,14 @@ Die Veröffentlichung unter dieser GitHub-Organisation schließt nicht aus, dass
 
 Mehr Information hierzu gibt es unter: https://module-loader.de/docs/naming_convention.php
 
-8. In den jeweiligen Dateien müssen je nach Lizenz die Contributor/Autoren genannt werden. Sollte das nicht möglich sein, wird das Modul mindestens mit einer Datei **CONTRIBUTORS.md** ausgeliefert, in der alle Contributor/Autoren in angemessener üblicher OpenSoruce-Weise erwähnt werden, es sei denn, eine Erwähnung wird nicht gewünscht oder ist technisch nicht möglich.
+7. In den jeweiligen Dateien müssen je nach Lizenz die Contributor/Autoren genannt werden. Sollte das nicht möglich sein, wird das Modul mindestens mit einer Datei **CONTRIBUTORS.md** ausgeliefert, in der alle Contributor/Autoren in angemessener üblicher OpenSoruce-Weise erwähnt werden, es sei denn, eine Erwähnung wird nicht gewünscht oder ist technisch nicht möglich.
 
-9. Kommt ein Modul aus dem [modified Forum](https://www.modified-shop.org/forum/), wird im entsprechendem Forums-Thread der Modul-Entwickler darüber informiert, dass sein Modul auf GitHub unter **ModifiedCommunityModules** veröffentlicht wurde und zukünftig auch kostenlos im [MMLC](https://module-loader.de) veröffentlicht werden kann. Hierzu wird der Link zu GitHub und falls möglich zum Modul im [MMLC](https://module-loader.de) mit angegeben.
+8. Kommt ein Modul aus dem [modified Forum](https://www.modified-shop.org/forum/), wird im entsprechendem Forums-Thread der Modul-Entwickler darüber informiert, dass sein Modul auf GitHub unter **ModifiedCommunityModules** veröffentlicht wurde und zukünftig auch kostenlos im [MMLC](https://module-loader.de) veröffentlicht werden kann. Hierzu wird der Link zu GitHub und falls möglich zum Modul im [MMLC](https://module-loader.de) mit angegeben.
 
-10. Es muss in der Modulbeschreibung auf folgendes hingewiesen werden: *Für dieses Modul kann Support freundlich im [modified Forum](https://www.modified-shop.org/forum/) erfragt werden. Ein Anspruch auf Support besteht jedoch nicht. Alternativ kann ein Dienstleister für Support (auch kostenpflichtig) beauftragt werden.*
+9. Es muss in der Modulbeschreibung auf folgendes hingewiesen werden: *Für dieses Modul kann Support freundlich im [modified Forum](https://www.modified-shop.org/forum/) erfragt werden. Ein Anspruch auf Support besteht jedoch nicht. Alternativ kann ein Dienstleister für Support (auch kostenpflichtig) beauftragt werden.*
 
-11. Werden an einem Modul neue nicht triviale Funktionen oder erhebliche Änderungen am Code vorgenommen und eine eigene Schöpfungshöhe ist ersichtlich, darf das Modul auch kostenlos unter dem eigenen Account veröffentlicht werden. Die Nennung der Contributor/Autoren wie aus Punkt 8 muss weiterhin erfolgen. Oft wird das bereits von der Lizenz verlangt, unter dem ein Modul veröffentlicht wurde.
+10. Werden an einem Modul neue nicht triviale Funktionen oder erhebliche Änderungen am Code vorgenommen und eine eigene Schöpfungshöhe ist ersichtlich, darf das Modul auch kostenlos unter dem eigenen Account veröffentlicht werden. Die Nennung der Contributor/Autoren wie aus Punkt 7 muss weiterhin erfolgen. Oft wird das bereits von der Lizenz verlangt, unter dem ein Modul veröffentlicht wurde.
 
-12. Jedes Modul, dass unter **ModifiedCommunityModules** veröffentlicht wird, muss eine **README.md** Datei beinhalten, in der auf diese Guidelines verwiesen wird.
+11. Jedes Modul, dass unter **ModifiedCommunityModules** veröffentlicht wird, muss eine **README.md** Datei beinhalten, in der auf diese Guidelines verwiesen wird.
 
 Stand 3.10.2020
