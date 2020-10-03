@@ -2,16 +2,22 @@
 Version 0.1.0
 
 ## Einleitung
-Dieses ist eine öffentliche GitHub-Organisation mit dem Namen **ModifiedCommunityModules**. Durch diese GitHub-Organisation können kostenlose Module für die [modified eCommerce Shopsoftware](https://www.modified-shop.org) öffentlich unter `https://github.com/ModifiedCommunityModules/MODUL_NAME` veröffentlicht werden. Durch diesen generischen GitHub-Organisations-Namen, beinhalten die Links und Pfade zu den Repsoitories auf GitHub der Module nicht mehr den Namen eines GitHub-Useres, welcher möglicherweise wenig am Modul selbst beigetragen hat. Dadruch soll verhindert werden, dass ungewollt ein GitHub-User in den Focus gestellt wird, der wenig zu einem Modul beigetragen hat und lediglich ein kostenloses Modul auf GitHub veröffentlichen wollte.
+Dieses ist eine öffentliche GitHub-Organisation mit dem Namen **ModifiedCommunityModules**. Durch diese GitHub-Organisation können kostenlose Module für die [modified eCommerce Shopsoftware](https://www.modified-shop.org) öffentlich/pulic veröffentlicht werden.
 
-Die Veröffentlichung unter dieser GitHub-Organisation schließt nicht aus, dass ein Repsitory zu einem späteren Zeitpunkt einem anderen GitHub-User übertragen werden kann, der das Modul berechtigt für sich beansprucht. Das geht jedoch nur, solange das Modul nicht umfangreich durch weitere Contributer bearbeitet wurde. Dem Ursprünglichem Autor des Moduls steht es jedoch frei, dass Repository zu kopieren und es unter seinem eigenen Namen weiterzuentwickeln. Die Regeln der jeweiligen Lizenz gilt es zu jedem Zeitpunkt einzuhalten. Oft beinhaltet dieses auch die Nennung der neuen Contributer.
+Die hier aufgeführten Regeln gelten für Dritte, die ein kostenloses Modul, weleches aus einer anderen Quelle stammt, auf GitHub und im [MMLC](https://module-loader.de) veröffentlichen möchten, für die sie selbst nicht die Vertretungsbefugnisse haben. Eine Veröffentlichung muss im Einklang mit der Lizenz erfolgen, unter der ein Modul veröffentlicht wurde. Autoren die selbst ein Modul entwickelt haben und dieses Modul vertreten drüfen, müssen ihr Modul nicht unter **ModifiedCommunityModules** veröffentlichen, um dieses Modul auch im [MMLC](https://module-loader.de) veröffentlichen zu dürfen. Ihnen steht es aber weiterhin frei, auch ihr Modul unter **ModifiedCommunityModules** zu veröffentlichen. Informationen zur Veröffentlichung von Modulen im MMLC gibt es unter folgendem Link: https://module-loader.de/docs/publish_module.php
 
-Durch die Veröffentlichung auf GitHub, kann jeder von den Änderungen und Verbesserungen, die am Programmcode gemacht werden profitieren. Die Module die hier veröffentlicht werden, können auch weiterhin ohne den [MMLC](https://module-loader.de) heruntergeladen und wie üblich per Hand installiert werden. Das gilt, solange es hierfür keine technischen Hindernisse gibt. Durch Git und GiHub kann jeder die Änderungen in der Commit-History nachvollziehen oder sich auch aktiv an der Weiterentwicklung beteiligen.
+Durch eine Veröffentlichung auf GitHub, kann jeder von den Änderungen und Verbesserungen, die am Programmcode gemacht werden profitieren oder selber einen Beitrag leisten. Durch Git (und im speziellen GitHub), kann ein moderner Ansatz bei der gemeinschaftlichen Entwicklung an Modulen für modified genutzt werden, der von einer großen Anzahl an OpenSource-Entwickler bevorzugt wird. Das soll einen Anreiz für neue Entwickler schaffen, die sich einen modernen Ansatz bei ihrer Entwicklung wünschen.
+
+Module die hier unter **ModifiedCommunityModules** veröffentlicht werden, können auch weiterhin ohne den [MMLC](https://module-loader.de) heruntergeladen und wie üblich per Hand installiert werden. Das gilt, solange es hierfür keine technischen Hindernisse gibt. Durch Git und GiHub kann jeder die Änderungen in der Commit-History nachvollziehen oder sich auch aktiv an der Weiterentwicklung beteiligen.
+
+Eine veröffentlich findet unter folgendem Link auf GitHub statt. `https://github.com/ModifiedCommunityModules/MODUL_NAME`. Durch diesen generischen GitHub-Organisations-Namen, beinhalten die Links und Pfade zu den Repsoitories der Module auf GitHub nicht mehr den Namen eines GitHub-Useres, welcher möglicherweise wenig am Modul selbst beigetragen hat. Dadruch soll verhindert werden, dass ungewollt ein GitHub-User in den Mittelpunkt gestellt wird, der wenig zu einem Modul beigetragen hat, keine offiziellen Vertretungsbefugnisse hat und lediglich ein kostenloses Modul auf GitHub für eine moderne gemeinschaftliche weiterentwickling veröffentlichen möchte.
+
+Die Veröffentlichung unter dieser GitHub-Organisation schließt nicht aus, dass ein Repsitory zu einem späteren Zeitpunkt einem anderen GitHub-User übertragen werden kann, der das Modul berechtigt für sich beansprucht. Das geht jedoch nur, solange das Modul nicht umfangreich durch weitere Contributor bearbeitet wurde. Dem Ursprünglichem Autor des Moduls steht es jedoch frei, das Repository zu kopieren und es unter seinem eigenen Namen weiterzuentwickeln. Die Regeln der jeweiligen Lizenz gilt es einzuhalten. Oft beinhaltet dieses auch die Nennung der neuen und alten Contributor.
 
 ## Regeln
 1. Jeder, der einen positiven Beitrag an den Modulen leisten möchte, kann Mitglied der GitHub-Organisation **ModifiedCommunityModules** werden. Sollte es Zweifel daran geben, dass der User mit positiven Absichten handelt, kann die Teilnahme verweigert werden. Ein Ausschluss findet immer mit einer Begründung statt.
 
-2. Die Contributer an Modulen achten auf die Nennung aller Contributer an der von der Lizenz dafür vorgesehene Stelle und versuchen die Entwicklingsgeschichte des Moduls nicht zu verbergen. Die Contributer beachten die Regeln der Lizenz unter dem ein Modul veröffentlicht wurde.
+2. Die Contributor an Modulen achten auf die Nennung aller Contributor an der von der Lizenz dafür vorgesehene Stelle und versuchen die Entwicklingsgeschichte des Moduls nicht zu verbergen. Die Contributor beachten die Regeln der Lizenz unter dem ein Modul veröffentlicht wurde.
 
 3. Die Module weisen auf ihren Ursprung hin, soweit dieser bekannt ist. Sollte ein Modul beispielsweise aus dem [modified Forum](https://www.modified-shop.org/forum/) stammen, muss ein Link zum entsprechenden Forums-Thread angegeben werden, soweit dieses möglich ist.
 
@@ -25,18 +31,15 @@ Durch die Veröffentlichung auf GitHub, kann jeder von den Änderungen und Verbe
 - Namespace	(PascalCase):	`ModifiedCommunityModules`
 - vendor-no-composer (PascalCase): `ModifiedCommunityModules`
 
-
 Mehr Information hierzu gibt es unter: https://module-loader.de/docs/naming_convention.php
 
+8. In den jeweiligen Dateien müssen je nach Lizenz die Contributor/Autoren genannt werden. Sollte das nicht möglich sein, wird das Modul mindestens mit einer Datei **CONTRIBUTORS.md** ausgeliefert, in der alle Contributor/Autoren in angemessener üblicher OpenSoruce-Weise erwähnt werden, es sei denn, eine Erwähnung wird nicht gewünscht oder ist technisch nicht möglich.
 
-
-8. In den jeweiligen Dateien müssen je nach Lizenz die Contributer/Autoren genannt werden. Sollte das nicht möglich sein, wird das Modul mindestens mit einer Datei **CONTRIBUTORS.md** ausgeliefert, in der alle Contributer/Autoren in angemessener üblicher OpenSoruce-Weise erwähnt werden, es sei denn, eine Erwähnung wird nicht gewünscht oder ist technisch nicht möglich.
-
-9. Kommt ein Modul aus dem [modified Forum](https://www.modified-shop.org/forum/), wird im entsprechnem Forums-Thread der Modul-Entwickler darüber informiert, dass sein Modul auf GitHub unter **ModifiedCommunityModules** veröffentlicht wurde und zukünftig auch kostenlos im [MMLC](https://module-loader.de) veröffentlicht werden kann. Hierzu wird der Link zu GitHub und falls möglich zum Modul im [MMLC](https://module-loader.de) mit angegeben.
+9. Kommt ein Modul aus dem [modified Forum](https://www.modified-shop.org/forum/), wird im entsprechendem Forums-Thread der Modul-Entwickler darüber informiert, dass sein Modul auf GitHub unter **ModifiedCommunityModules** veröffentlicht wurde und zukünftig auch kostenlos im [MMLC](https://module-loader.de) veröffentlicht werden kann. Hierzu wird der Link zu GitHub und falls möglich zum Modul im [MMLC](https://module-loader.de) mit angegeben.
 
 10. Es muss in der Modulbeschreibung auf folgendes hingewiesen werden: *Für dieses Modul kann Support freundlich im [modified Forum](https://www.modified-shop.org/forum/) erfragt werden. Ein Anspruch auf Support besteht jedoch nicht. Alternativ kann ein Dienstleister für Support (auch kostenpflichtig) beauftragt werden.*
 
-11. Werden an einem Modul neue nicht triviale Funktionen oder erhebliche Änderungen am Code vorgenommen und eine eigene Schöpfungshöhe ist ersichtlich, darf das Modul auch kostenlos unter dem eigenen Account veröffentlicht werden. Die Nennung der Contributer/Autoren wie aus Punkt 8 muss weiterhin erfolgen. Oft wird das bereits die Lizenz verlangen.
+11. Werden an einem Modul neue nicht triviale Funktionen oder erhebliche Änderungen am Code vorgenommen und eine eigene Schöpfungshöhe ist ersichtlich, darf das Modul auch kostenlos unter dem eigenen Account veröffentlicht werden. Die Nennung der Contributor/Autoren wie aus Punkt 8 muss weiterhin erfolgen. Oft wird das bereits von der Lizenz verlangen, unter dem ein Modul veröffentlicht wurde.
 
 12. Jedes Modul, dass unter **ModifiedCommunityModules** veröffentlicht wird, muss eine **README.md** Datei beinhalten, in der auf diese Guidelines verwiesen wird.
 
