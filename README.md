@@ -38,6 +38,6 @@ Mehr Information hierzu gibt es unter: https://module-loader.de/docs/naming_conv
 
 11. Werden an einem Modul neue nicht triviale Funktionen oder erhebliche Änderungen am Code vorgenommen und eine eigene Schöpfungshöhe ist ersichtlich, darf das Modul auch kostenlos unter dem eigenen Account veröffentlicht werden. Die Nennung der Contributer/Autoren wie aus Punkt 8 muss weiterhin erfolgen. Oft wird das bereits die Lizenz verlangen.
 
-12. Jedes Modul, dass unter **ModifiedCommunityModules** veröffentlicht wird, muss eine README.md Datei beinhalten, in der auf diese Guidelines verwiesen wird.
+12. Jedes Modul, dass unter **ModifiedCommunityModules** veröffentlicht wird, muss eine **README.md** Datei beinhalten, in der auf diese Guidelines verwiesen wird.
 
 Stand 3.10.2020
