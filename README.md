@@ -60,7 +60,7 @@ Um dem original Autor und den weiteren Mitwirkenden jedoch die Möglichkeit zu g
  * Name of your Module
  *
  *  Copyright 2012 by ...
- *  Copyright 2011 by Erika Mustermann <Erika.mustermann@example.com>
+ *  Copyright 2011 by Erika Mustermann <erika.mustermann@example.com>
  *  Copyright 2010 by Max Mustermann <max.mustermann@example.com>
  * 
  *  Licensed under GNU General Public License 2.0 or later. 
