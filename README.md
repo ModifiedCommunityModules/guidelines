@@ -48,7 +48,7 @@ Mehr Information hierzu gibt es unter: https://module-loader.de/docs/naming_conv
 
 ### Umgang mit der GPL 2.0 Lizenz
 
-Die GPL 2.0 ist eine Lizenz die sich auf ein Gesamtwerk bezieht. Das bedeutet, dass es technisch nicht notwendig ist, dass ein Lizenz-Header pro Datei angegeben werden muss. Viele Projekte die unter der GPL 2.0 veröffentlicht wurden, wie GIT, Linux oder phpMyAdmin sind deswegen dazu übergegangen keinen Lizenz-Header pro Datei zu verwenden und liefern den Quellcode nur mit einer zentralen `COPYING` oder `LICENSE` Datei aus, sowie einer Datei `AUTORS` oder `CONTRIBUTORS.md`. Diese Entscheidung ist unter anderem aus dem Grund getroffen worden, da sich mitlerweile Änderungen am Quellcode durch Systeme wie GIT oder SVN genau auf einen Contributor zuordnen lassen.
+Die GPL 2.0 ist eine Lizenz die sich auf ein Gesamtwerk bezieht. Das bedeutet, dass es technisch nicht notwendig ist, dass ein Lizenz-Header pro Datei angegeben werden muss. Viele Projekte die unter der GPL 2.0 veröffentlicht wurden, wie GIT, Linux oder phpMyAdmin sind deswegen dazu übergegangen keinen Lizenz-Header pro Datei zu verwenden und liefern den Quellcode nur mit einer zentralen `COPYING` oder `LICENSE` Datei aus, sowie einer Datei `AUTHORS` oder `CONTRIBUTORS.md`. Diese Entscheidung ist unter anderem aus dem Grund getroffen worden, da sich mitlerweile Änderungen am Quellcode durch Systeme wie GIT oder SVN genau auf einen Contributor zuordnen lassen.
 
 Um dem original Autor und den weiteren Mitwirkenden jedoch die Möglichkeit zu geben, dass sie durch dritte einfach mit ihren Werken identifiziert werden können, lässt sich beispielsweise der folgende GPL 2.0 Header pro Datei verwenden.
 
