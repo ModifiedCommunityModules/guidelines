@@ -1,4 +1,8 @@
 # Guidelines
+[![dicord](https://img.shields.io/discord/727190419158597683)](https://discord.gg/9NqwJqP)
+
+## Vorwort
+Änderungen dieser Guidelines können im [modified Forum im Thread zum MMLC](https://www.modified-shop.org/forum/index.php?topic=41316) oder auf [Discord](https://discord.gg/9NqwJqP) diskutiert werden.
 
 ## Einleitung
 Dieses ist eine öffentliche GitHub-Organisation mit dem Namen **ModifiedCommunityModules**. Durch diese GitHub-Organisation können kostenlose Module für die [modified eCommerce Shopsoftware](https://www.modified-shop.org) veröffentlicht werden. Alle Modul-Repositories sollen die Sichtbarkeitsrechte `public` erhalten. 
