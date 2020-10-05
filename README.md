@@ -26,7 +26,7 @@ Die Veröffentlichung unter **ModifiedCommunityModules** schließt nicht aus, da
 
 3. Die Module weisen auf ihren Ursprung hin, soweit dieser bekannt ist. Sollte ein Modul beispielsweise aus dem [modified Forum](https://www.modified-shop.org/forum/) stammen, muss ein Link zum entsprechenden Forums-Thread angegeben werden, soweit dieses möglich ist.
 
-4. Als Modul-Icon sollte ein generisches Icon verwendet werden, dass auf modifed schließen lässt, dass von modified freigeben wurde, für das die Nutzungsrechte vorliegen und das bei allen kostenlosen modified Module verwendet werden darf, die unter **ModifiedCommunityModules** veröffentlicht werden. Sollte es kein Modul-Icon geben, welches diese Anforderungen erfüllt, kann das Standard Modul-Icon aus dem [MMLC](https://module-loader.de) oder auch kein Modul-Icon verwendet werden.
+4. Als Modul-Icon sollte ein generisches Icon verwendet werden, dass auf modified schließen lässt, dass von modified freigeben wurde, für das die Nutzungsrechte vorliegen und das bei allen kostenlosen modified Module verwendet werden darf, die unter **ModifiedCommunityModules** veröffentlicht werden. Sollte es kein Modul-Icon geben, welches diese Anforderungen erfüllt, kann das Standard Modul-Icon aus dem [MMLC](https://module-loader.de) oder auch kein Modul-Icon verwendet werden.
 
 5. Die unter **ModifiedCommunityModules** veröffentlichten Module dürfen nur kostenlos im [MMLC](https://module-loader.de) veröffentlicht werden.
 
